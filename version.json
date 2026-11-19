@@ -1,0 +1,9 @@
+{
+  "app_name": "PHAN MEM QLDD",
+  "version": "1.0.0",
+  "release_date": "2026-11-19",
+  "release_notes": "Initial commercial release: License Key activation, About dialog, and Auto-Update.",
+  "download_url": "https://raw.githubusercontent.com/comay103/qldd-update/main/update_1.0.0.zip",
+  "sha256": "5f13ba94421392548d003b09112e1fb8dc6fa3490b12eedba1749653fde2e4ba",
+  "file_size": 229735
+}
